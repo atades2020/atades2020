@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atades2020
+- 👋 Hi, I’m Adam
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning Paython & Java
 - 💞️ I’m looking to collaborate on security 
